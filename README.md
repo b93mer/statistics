@@ -2,7 +2,7 @@
 title: README.md
 description: Repository overview for Appendix C session analysis scripts, data pipeline, and 3D surface demo.
 created: 2026-03-31
-updated: 2026-03-31
+updated: 2026-05-17
 ---
 
 # statistics
